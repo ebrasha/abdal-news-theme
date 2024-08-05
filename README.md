@@ -1,2 +1,2 @@
 # abdal-news-theme
-AbdalNewsTheme is Light wp theme
+A very fast and simple WordPress theme for news websites.
