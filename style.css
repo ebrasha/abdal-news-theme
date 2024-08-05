@@ -1,0 +1,17 @@
+/*
+Theme Name: AbdalNewsTheme
+Theme URI: https://github.com/ebrasha/abdal-news-theme
+Author: Ebrahim Shafiei (EbraSha)
+Author URI: https://github.com/ebrasha
+Description: A very fast and simple WordPress theme for news websites.
+Version: 1.0
+Requires at least: 6.4
+Tested up to: 6.6
+Requires PHP: 7.0
+*/
+
+@import url('./fonts/anjoman/fontiran.css');
+
+body {
+    font-family: Anjoman  !important;
+}

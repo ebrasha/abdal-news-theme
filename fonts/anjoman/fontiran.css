@@ -1,0 +1,254 @@
+﻿ /**
+*
+*	Name:			Anjoman Fonts
+*	Version:			2.0
+*	Author:			Moslem Ebrahimi (moslemebrahimi.com)
+*	Created on:		April 4, 2020
+*	Updated on:		April 4, 2020
+*	Website:			http://fontiran.com
+*	Copyright:		Commercial/Proprietary Software
+--------------------------------------------------------------------------------------
+فونت انجمن یک نرم افزار مالکیتی محسوب می شود. جهت آگاهی از قوانین استفاده از این فونت ها لطفا به وب سایت (فونت ایران دات کام) مراجعه نمایید
+--------------------------------------------------------------------------------------
+Anjoman fonts are considered a proprietary software. To gain information about the laws regarding the use of these fonts, please visit www.fontiran.com 
+--------------------------------------------------------------------------------------
+This set of fonts are used in this project under the license: (.....)
+------------------------------------------------------------------------------------- -
+*	
+**/
+
+@font-face {
+	font-family: Anjoman;
+	font-style: normal;
+	font-weight: 100;
+	src: url('eot/Anjoman-FaNum-Thin.eot');
+	src: url('eot/Anjoman-FaNum-Thin.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/Anjoman-FaNum-Thin.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/Anjoman-FaNum-Thin.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: normal;
+	font-weight: 200;
+	src: url('eot/Anjoman-FaNum-ExtraLight.eot');
+	src: url('eot/Anjoman-FaNum-ExtraLight.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/Anjoman-FaNum-ExtraLight.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/Anjoman-FaNum-ExtraLight.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: normal;
+	font-weight: 300;
+	src: url('eot/Anjoman-FaNum-Light.eot');
+	src: url('eot/Anjoman-FaNum-Light.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/Anjoman-FaNum-Light.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/Anjoman-FaNum-Light.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: normal;
+	font-weight: 500;
+	src: url('eot/Anjoman-FaNum-Medium.eot');
+	src: url('eot/Anjoman-FaNum-Medium.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/Anjoman-FaNum-Medium.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/Anjoman-FaNum-Medium.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: normal;
+	font-weight: 600;
+	src: url('eot/Anjoman-FaNum-SemiBold.eot');
+	src: url('eot/Anjoman-FaNum-SemiBold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/Anjoman-FaNum-SemiBold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/Anjoman-FaNum-SemiBold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: normal;
+	font-weight: 750;
+	src: url('eot/Anjoman-FaNum-ExtraBold.eot');
+	src: url('eot/Anjoman-FaNum-ExtraBold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/Anjoman-FaNum-ExtraBold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/Anjoman-FaNum-ExtraBold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: normal;
+	font-weight: 800;
+	src: url('eot/Anjoman-FaNum-UltraBold.eot');
+	src: url('eot/Anjoman-FaNum-UltraBold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/Anjoman-FaNum-UltraBold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/Anjoman-FaNum-UltraBold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: normal;
+	font-weight: 850;
+	src: url('eot/Anjoman-FaNum-Black.eot');
+	src: url('eot/Anjoman-FaNum-Black.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/Anjoman-FaNum-Black.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/Anjoman-FaNum-Black.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: normal;
+	font-weight: 900;
+	src: url('eot/Anjoman-FaNum-Heavy.eot');
+	src: url('eot/Anjoman-FaNum-Heavy.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/Anjoman-FaNum-Heavy.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/Anjoman-FaNum-Heavy.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: normal;
+	font-weight: 1000;
+	src: url('eot/Anjoman-FaNum-SuperHeavy.eot');
+	src: url('eot/Anjoman-FaNum-SuperHeavy.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/Anjoman-FaNum-SuperHeavy.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/Anjoman-FaNum-SuperHeavy.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: normal;
+	font-weight: bold;
+	src: url('eot/Anjoman-FaNum-Bold.eot');
+	src: url('eot/Anjoman-FaNum-Bold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/Anjoman-FaNum-Bold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/Anjoman-FaNum-Bold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: normal;
+	font-weight: normal;
+	src: url('eot/Anjoman-FaNum-Regular.eot');
+	src: url('eot/Anjoman-FaNum-Regular.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/Anjoman-FaNum-Regular.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/Anjoman-FaNum-Regular.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+
+/**
+Italic fonts	
+**/
+
+
+@font-face {
+	font-family: Anjoman;
+	font-style: italic;
+	font-weight: 100;
+	src: url('eot/Anjoman-FaNum-ThinItalic.eot');
+	src: url('eot/Anjoman-FaNum-ThinItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/Anjoman-FaNum-ThinItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/Anjoman-FaNum-ThinItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: italic;
+	font-weight: 200;
+	src: url('eot/Anjoman-FaNum-ExtraLightItalic.eot');
+	src: url('eot/Anjoman-FaNum-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/Anjoman-FaNum-ExtraLightItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/Anjoman-FaNum-ExtraLightItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: italic;
+	font-weight: 300;
+	src: url('eot/Anjoman-FaNum-LightItalic.eot');
+	src: url('eot/Anjoman-FaNum-LightItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/Anjoman-FaNum-LightItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/Anjoman-FaNum-LightItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: italic;
+	font-weight: 500;
+	src: url('eot/Anjoman-FaNum-MediumItalic.eot');
+	src: url('eot/Anjoman-FaNum-MediumItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/Anjoman-FaNum-MediumItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/Anjoman-FaNum-MediumItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: italic;
+	font-weight: 600;
+	src: url('eot/Anjoman-FaNum-SemiBoldItalic.eot');
+	src: url('eot/Anjoman-FaNum-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/Anjoman-FaNum-SemiBoldItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/Anjoman-FaNum-SemiBoldItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: italic;
+	font-weight: 750;
+	src: url('eot/Anjoman-FaNum-ExtraBoldItalic.eot');
+	src: url('eot/Anjoman-FaNum-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/Anjoman-FaNum-ExtraBoldItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/Anjoman-FaNum-ExtraBoldItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: italic;
+	font-weight: 800;
+	src: url('eot/Anjoman-FaNum-UltraBoldItalic.eot');
+	src: url('eot/Anjoman-FaNum-UltraBoldItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/Anjoman-FaNum-UltraBoldItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/Anjoman-FaNum-UltraBoldItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: italic;
+	font-weight: 850;
+	src: url('eot/Anjoman-FaNum-BlackItalic.eot');
+	src: url('eot/Anjoman-FaNum-BlackItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/Anjoman-FaNum-BlackItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/Anjoman-FaNum-BlackItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: italic;
+	font-weight: 900;
+	src: url('eot/Anjoman-FaNum-HeavyItalic.eot');
+	src: url('eot/Anjoman-FaNum-HeavyItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/Anjoman-FaNum-HeavyItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/Anjoman-FaNum-HeavyItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: italic;
+	font-weight: 1000;
+	src: url('eot/Anjoman-FaNum-SuperHeavyItalic.eot');
+	src: url('eot/Anjoman-FaNum-SuperHeavyItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/Anjoman-FaNum-SuperHeavyItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/Anjoman-FaNum-SuperHeavyItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: italic;
+	font-weight: bold;
+	src: url('eot/Anjoman-FaNum-BoldItalic.eot');
+	src: url('eot/Anjoman-FaNum-BoldItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/Anjoman-FaNum-BoldItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/Anjoman-FaNum-BoldItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: italic;
+	font-weight: normal;
+	src: url('eot/Anjoman-FaNum-Italic.eot');
+	src: url('eot/Anjoman-FaNum-Italic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/Anjoman-FaNum-Italic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/Anjoman-FaNum-Italic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+
+/**
+Condensed fonts	
+**/
+
+
+
+/**
+CondensedItalic fonts	
+**/
+
